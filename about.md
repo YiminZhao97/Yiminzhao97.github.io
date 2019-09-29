@@ -4,4 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the homepage of Yimin, Zhao. Yimin, Zhao received his B.S. from Wuhan University in 2019. And now, he is a research assistant in Professor Yong Wang's lab. He is persuing a PhD program in Statistics, Bioinformatics and so on.
+This is the homepage of Yimin, Zhao. He received his B.S. from School of Mathematics and Statistics, Wuhan University in 2019. And now, he is a research assistant in Professor Yong Wang's lab, AMSS. His research interest focus on the modeling of scRNA-seq data which is of high-sparsity.
+
+
