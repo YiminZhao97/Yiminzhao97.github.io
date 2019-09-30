@@ -29,7 +29,7 @@
   {
     "text": "Contact Me",
     "url": "/#",
-    "icon": "fa-feed",
+    "icon": "fa-envelope",
     "target": _blank
   }
 ]
